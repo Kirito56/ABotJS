@@ -1,0 +1,9 @@
+{
+  "name": "abot",
+  "version": "0.0.0",
+  "description": "ABot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
